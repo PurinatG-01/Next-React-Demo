@@ -7,6 +7,8 @@ export default () => {
             <button className='btn btn-dark' style={{fontSize:'0.8em',margin:'5px'}} onClick={()=>{Router.push('/')}}>Index</button>
             <button className='btn btn-dark' style={{fontSize:'0.8em',margin:'5px'}} onClick={()=>{Router.push('/p1')}}>P1</button>
             <button className='btn btn-dark' style={{fontSize:'0.8em',margin:'5px'}} onClick={()=>{Router.push('/p2')}}>P2</button>
+            <button className='btn btn-dark' style={{fontSize:'0.8em',margin:'5px'}} onClick={()=>{Router.push('/p3')}}>P3</button>
+            <button className='btn btn-dark' style={{fontSize:'0.8em',margin:'5px'}} onClick={()=>{Router.push('/p4')}}>P4</button>
             <h3 className="mx-auto">Demo Next.js</h3>
             <h6>by Purinat Sanbundit</h6>
         </nav>

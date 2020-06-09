@@ -1,11 +1,12 @@
 import React, { useState } from "react";
 
 const mainWrapperStyle = {
-  borderRadius: "10px",
+  borderRadius: "40px 19px 19px 19px",
   color: "#232323",
   boxShadow: "0px 0px 33px 19px rgba(0,0,0,0.08)",
   margin: "30px",
   display: "flex",
+  right:'300'
 };
 
 const imgStyle = {
